@@ -1,0 +1,10 @@
+C:\Users\alnic\source\repos\Homework2_CardIdentifier\bin\Debug\Homework2_CardIdentifier.exe.config
+C:\Users\alnic\source\repos\Homework2_CardIdentifier\bin\Debug\Homework2_CardIdentifier.exe
+C:\Users\alnic\source\repos\Homework2_CardIdentifier\bin\Debug\Homework2_CardIdentifier.pdb
+C:\Users\alnic\source\repos\Homework2_CardIdentifier\obj\Debug\Homework2_CardIdentifier.csprojAssemblyReference.cache
+C:\Users\alnic\source\repos\Homework2_CardIdentifier\obj\Debug\Homework2_CardIdentifier.Form1.resources
+C:\Users\alnic\source\repos\Homework2_CardIdentifier\obj\Debug\Homework2_CardIdentifier.Properties.Resources.resources
+C:\Users\alnic\source\repos\Homework2_CardIdentifier\obj\Debug\Homework2_CardIdentifier.csproj.GenerateResource.cache
+C:\Users\alnic\source\repos\Homework2_CardIdentifier\obj\Debug\Homework2_CardIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\alnic\source\repos\Homework2_CardIdentifier\obj\Debug\Homework2_CardIdentifier.exe
+C:\Users\alnic\source\repos\Homework2_CardIdentifier\obj\Debug\Homework2_CardIdentifier.pdb

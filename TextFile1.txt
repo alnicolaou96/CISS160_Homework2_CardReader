@@ -1,0 +1,2 @@
+﻿I check to see if the program can run by pressing f5, if it doesnt run i troubleshoot by checking the error messages.
+once that is done i run the program and click the cards to see if they send the right response.
